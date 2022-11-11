@@ -2,7 +2,7 @@
 This repository contains classification models, used for the [ANDDigest](https://anddigest.sysbio.ru/) project.
 
 ## Fine-Tuning Notebooks for the classification models
-This **notebook** [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github//ANDDigest/ANDDigest_classification_models/blob/main/notebooks/PubMedBERT_finetuning.ipynb), used for the fine-tuning of the classification models for the binary classification of short biological entities for ANDDigest, was developed on the basis of the
+This **notebook** [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/ANDDigest/ANDDigest_classification_models/blob/main/notebooks/PubMedBERT_finetuning.ipynb), used for the fine-tuning of the classification models for the binary classification of short biological entities for ANDDigest, was developed on the basis of the
 _McCormick, Chris, and Nick Ryan. "Bert fine-tuning tutorial with pytorch." Retrieved January 24 (2019): 2021._
 
 
