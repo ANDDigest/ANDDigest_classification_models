@@ -9,6 +9,8 @@ _McCormick, Chris, and Nick Ryan. "Bert fine-tuning tutorial with pytorch." Retr
 Please keep in mind, that in order to repeat a fine-tuning of the classification model, as it was done in the manuscript, the same dataset should be used, and valid pathes to the correspond files should be specified for the variables, located in the 4th cell.
 
 
+The **examples** folder contains positive and negative input and output examples, used for the classification of the short names of cell components.
+
 All the used datasets are freely available, and can be downloaded in the datasets section via the following [**link**](https://huggingface.co/Timofey). The models section contains all the fine-tuned models, that were used in ANDDigest.
 
 ## Citing
