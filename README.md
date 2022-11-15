@@ -10,9 +10,17 @@ Please keep in mind, that in order to repeat a fine-tuning, as it was done in th
 
 This **notebook** [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/ANDDigest/ANDDigest_classification_models/blob/main/notebooks/ANDDigest_predictions_cuda.ipynb) can be used for the application of the fine-tuned classifiers.
 
+## Examples
 The **examples** folder contains positive and negative input and output examples, used for the classification of the short names of cell components.
 
-All the used datasets are freely available, and can be downloaded in the datasets section via the following [**link**](https://huggingface.co/Timofey). The models section contains all the fine-tuned models, that were used in ANDDigest.
+
+## Gold Standards
+...
+
+
+## Data availability
+
+All the used datasets are freely available, and can be downloaded from the datasets section via the following [**link**](https://huggingface.co/Timofey). The models section contains all the fine-tuned models, that were used in ANDDigest.
 
 ## Citing
 If you found ANDDigest, or the developed models, useful in your research, please cite one of the following articles:
