@@ -20,7 +20,7 @@ The **examples** folder contains positive and negative input and output examples
 
 ## Data availability
 
-All the used datasets are freely available, and can be downloaded from the datasets section via the following [**link**](https://huggingface.co/Timofey). The models section contains all the fine-tuned models, that were used in ANDDigest.
+All the datasets used for the fine-tuning are freely available, and can be downloaded from the datasets section via the following [**link**](https://huggingface.co/Timofey). The models section contains the fine-tuned models used as a part of AI NER module in ANDDigest.
 
 ## Citing
 If you found ANDDigest, or the developed models, useful in your research, please cite one of the following articles:
