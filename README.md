@@ -15,7 +15,7 @@ The **examples** folder contains positive and negative input and output examples
 
 
 ## Gold Standards
-...
+The Gold Standards folder contains 2 subdirectories, a first one, entitled ANDSystem, contains data used for the main assesement of the accuracy for each developed model, as it is described in the manuscript. The Other subfolder contains input and output data, that was generated using the existing gold standards.
 
 
 ## Data availability
