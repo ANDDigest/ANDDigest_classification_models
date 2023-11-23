@@ -23,8 +23,10 @@ The Gold Standards folder contains 2 subdirectories, a first one, entitled ANDSy
 All the datasets used for the fine-tuning are freely available, and can be downloaded from the datasets section via the following [**link**](https://huggingface.co/Timofey). The models section contains the fine-tuned models used as a part of AI NER module in ANDDigest.
 
 ## Citing
-If you found ANDDigest, or the developed models, useful in your research, please cite one of the following articles:
+If you found ANDDigest, or the developed models, to be useful in your research, please cite the following articles:
 
 ```
-  to be added
+Ivanisenko, T.V., Saik, O.V., Demenkov, P.S. et al. ANDDigest: a new web-based module of ANDSystem for the search of knowledge in the scientific literature. BMC Bioinformatics 21 (Suppl 11), 228 (2020). https://doi.org/10.1186/s12859-020-03557-8
+
+Ivanisenko, T.V.; Demenkov, P.S.; Kolchanov, N.A.; Ivanisenko, V.A. The New Version of the ANDDigest Tool with Improved AI-Based Short Names Recognition. Int. J. Mol. Sci. 2022, 23, 14934. https://doi.org/10.3390/ijms232314934
 ```
