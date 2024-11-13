@@ -27,6 +27,5 @@ If you found ANDDigest, or the developed models, to be useful in your research, 
 
 ```
 Ivanisenko, T.V., Saik, O.V., Demenkov, P.S. et al. ANDDigest: a new web-based module of ANDSystem for the search of knowledge in the scientific literature. BMC Bioinformatics 21 (Suppl 11), 228 (2020). https://doi.org/10.1186/s12859-020-03557-8
-
 Ivanisenko, T.V.; Demenkov, P.S.; Kolchanov, N.A.; Ivanisenko, V.A. The New Version of the ANDDigest Tool with Improved AI-Based Short Names Recognition. Int. J. Mol. Sci. 2022, 23, 14934. https://doi.org/10.3390/ijms232314934
 ```
